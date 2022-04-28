@@ -3,10 +3,6 @@
 
 那么什么是比较好的方法呢？下面介绍下Taro内的`animate`方法（经测试h5端无法使用）
 
-先看下效果：
-
-![image](https://user-images.githubusercontent.com/42159029/165663614-5010ba6a-7672-4d52-936d-5ae21bf9333c.png)
-
 
 ## 2.animate方法
 先来看下定义
@@ -86,7 +82,7 @@ tip:在微信小程序开发工具中无法看到触发动画时元素css变化
 ## 4.结尾
 其他示例
 
-![048f1e7e8b47b7cec049c3b37e49286c_.gif](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2a24c6f6204c4eb09595fcbdd980c14e~tplv-k3u1fbpfcp-watermark.image?)
+[掘金链接](https://juejin.cn/post/7089647267091021838)
 
 原微信小程序[文档](https://developers.weixin.qq.com/miniprogram/dev/framework/view/animation.html)
 
