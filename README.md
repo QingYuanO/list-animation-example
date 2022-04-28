@@ -85,4 +85,3 @@ tip:在微信小程序开发工具中无法看到触发动画时元素css变化
 
 原微信小程序[文档](https://developers.weixin.qq.com/miniprogram/dev/framework/view/animation.html)
 
-[示例Taro源代码](https://github.com/QingYuanO/list-animation-example)
