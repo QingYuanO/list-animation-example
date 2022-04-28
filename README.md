@@ -5,8 +5,8 @@
 
 先看下效果：
 
+![image](https://user-images.githubusercontent.com/42159029/165663614-5010ba6a-7672-4d52-936d-5ae21bf9333c.png)
 
-![935079d2e3890deedac10ce478017e2e_.gif](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f09df774ac1a46ad8283da68880d0112~tplv-k3u1fbpfcp-watermark.image?)
 
 ## 2.animate方法
 先来看下定义
